@@ -8,4 +8,8 @@
 	7.管理修改2
 	8.远程管理版本代码
 	9.分支管理 git branch
+<<<<<<< HEAD
 	10.我才是真正的git checkout -b <分支名称>
+=======
+	10.git checkout -b <name>
+>>>>>>> feature1
