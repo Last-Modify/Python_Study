@@ -10,3 +10,4 @@
 	9.分支管理 git branch
 	10.我才是真正的git checkout -b <分支名称>
 	11.git merge --no-ff -m
+	12.git stash 暂时存储当前分区未完成工作内容
